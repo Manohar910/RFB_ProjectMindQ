@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="On firefox(failed)">
+    <parameter name="Browser" value="firefox"/>
+    <classes>
+      <class name="com.ebanking.master.Grid1">
+        <methods>
+          <include name="GD" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.ebanking.master.Grid1 -->
+    </classes>
+  </test> <!-- On firefox(failed) -->
+</suite> <!-- Failed suite [Suite] -->

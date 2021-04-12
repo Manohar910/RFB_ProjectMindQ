@@ -1,0 +1,31 @@
+package com.ebanking.master;
+
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.AfterSuite;
+
+public class MainTestNg {
+	Library lb = new Library();
+
+	@BeforeTest
+	public void beforeTest() throws Exception {
+		Library.Login_Admin("Admin", "Admin");
+	}
+
+	@AfterTest
+	public void afterTest() {
+		Library.LogOut();
+	}
+
+	@BeforeSuite
+	public void beforeSuite() throws Exception {
+		Library.Launch_Url("http://primusbank.qedgetech.com/");
+	}
+
+	@AfterSuite
+	public void afterSuite() {
+		Library.Close();
+	}
+
+}

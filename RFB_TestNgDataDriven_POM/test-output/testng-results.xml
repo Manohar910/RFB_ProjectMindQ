@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78205" started-at="2021-04-02T16:23:43 IST" finished-at="2021-04-02T16:25:01 IST">
+    <groups>
+    </groups>
+    <test name="PomTestNg.xml" duration-ms="78205" started-at="2021-04-02T16:23:43 IST" finished-at="2021-04-02T16:25:01 IST">
+      <class name="com.ebanking.master.PomExe">
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.ebanking.master.PomExe@527740a2]" name="Login" is-config="true" duration-ms="19419" started-at="2021-04-02T16:23:43 IST" finished-at="2021-04-02T16:24:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Branch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ebanking.master.PomExe@527740a2]" name="Branch" duration-ms="6847" started-at="2021-04-02T16:24:02 IST" data-provider="Bdata" finished-at="2021-04-02T16:24:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mjkjlkjsljk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hghjgkh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[khjjlk]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jhkhlj]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[hgjhgkhk]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[76456]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Tamil Nadu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[CHENNAI]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Branch -->
+        <test-method status="PASS" signature="Branch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ebanking.master.PomExe@527740a2]" name="Branch" duration-ms="7176" started-at="2021-04-02T16:24:09 IST" data-provider="Bdata" finished-at="2021-04-02T16:24:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mjkhghglkjsljk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hghhgjgjgkh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[khjhjjlk]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jhhhkhlj]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[hghjhgkhk]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[78456]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Tamil Nadu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[CHENNAI]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Branch -->
+        <test-method status="PASS" signature="Branch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ebanking.master.PomExe@527740a2]" name="Branch" duration-ms="6459" started-at="2021-04-02T16:24:16 IST" data-provider="Bdata" finished-at="2021-04-02T16:24:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mjfhgjgkjsljk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hghjhgggkh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[khgjhgjjlk]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jhkhgfgfhlj]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[hgjhgkhk]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[76356]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Tamil Nadu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[CHENNAI]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Branch -->
+        <test-method status="PASS" signature="Employee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ebanking.master.PomExe@527740a2]" name="Employee" duration-ms="8037" started-at="2021-04-02T16:24:23 IST" data-provider="Edata" finished-at="2021-04-02T16:24:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hkjljdf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hbkhjlkjlk]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jhkjkjhjk]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mjkjlkjsljk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee -->
+        <test-method status="PASS" signature="Employee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ebanking.master.PomExe@527740a2]" name="Employee" duration-ms="7087" started-at="2021-04-02T16:24:31 IST" data-provider="Edata" finished-at="2021-04-02T16:24:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hkjljhghgdf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hbkhggjlkjlk]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jhkjkjhjk]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mjkjlkjsljk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee -->
+        <test-method status="PASS" signature="Employee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ebanking.master.PomExe@527740a2]" name="Employee" duration-ms="6795" started-at="2021-04-02T16:24:38 IST" data-provider="Edata" finished-at="2021-04-02T16:24:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hkjlghjdf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hbkhhjjjlkjlk]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jhkjkjhjk]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mjkjlkjsljk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee -->
+        <test-method status="PASS" signature="Role(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ebanking.master.PomExe@527740a2]" name="Role" duration-ms="5892" started-at="2021-04-02T16:24:45 IST" data-provider="Rdata" finished-at="2021-04-02T16:24:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jhkjkjhjk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bkdhkjldj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[E]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Role -->
+        <test-method status="PASS" signature="Role(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ebanking.master.PomExe@527740a2]" name="Role" duration-ms="5411" started-at="2021-04-02T16:24:51 IST" data-provider="Rdata" finished-at="2021-04-02T16:24:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jhkjkhghjjhjk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bkdhhjghkjldj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[E]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Role -->
+        <test-method status="PASS" signature="Role(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ebanking.master.PomExe@527740a2]" name="Role" duration-ms="4856" started-at="2021-04-02T16:24:56 IST" data-provider="Rdata" finished-at="2021-04-02T16:25:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jhkhjjkjhjk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bkhhdhkjldj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[E]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Role -->
+      </class> <!-- com.ebanking.master.PomExe -->
+    </test> <!-- PomTestNg.xml -->
+  </suite> <!-- Suite -->
+</testng-results>

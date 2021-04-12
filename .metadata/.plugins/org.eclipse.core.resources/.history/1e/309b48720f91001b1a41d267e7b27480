@@ -1,0 +1,12 @@
+package com.ebanking.master;
+
+import org.testng.annotations.Test;
+
+public class BranchNg extends MainTestNg {
+	@Test
+	public void Branch() throws Exception {
+		Library.Branch_Creation("hgdjgjhs", "jgjjhkd", "jhdghkhj", "hghkhjds", "djhghk", "54345", "INDIA", "Tamil Nadu",
+				"CHENNAI");
+
+	}
+}

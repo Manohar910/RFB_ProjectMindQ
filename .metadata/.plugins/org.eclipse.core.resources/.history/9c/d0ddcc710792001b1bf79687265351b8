@@ -1,0 +1,16 @@
+package com.ebanking.master;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class PomExe {
+
+	public void pom() {
+		
+		WebDriver driver=new FirefoxDriver();
+		driver.manage().window().maximize();
+		driver.get("http://122.175.8.158/ranford2/");
+		
+		
+	}
+}

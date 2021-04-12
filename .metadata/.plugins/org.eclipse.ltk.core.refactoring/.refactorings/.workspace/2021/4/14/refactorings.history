@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;RFB_TestNG&apos; to &apos;RFB_TestNgDataDriven&apos;&#x0D;&#x0A;- Original element: &apos;RFB_TestNG&apos;&#x0D;&#x0A;- Renamed element: &apos;RFB_TestNG&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;RFB_TestNG&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=RFB_TestNG" name="RFB_TestNgDataDriven" references="true" stamp="1617361156189" version="1.0"/>
+</session>
